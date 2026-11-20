@@ -1,6 +1,6 @@
 # Pokémon Emerald Legacy Enhanced
 
-Pokémon Emerald Legacy Enhanced is an fork of Pokémon Emerald Legacy by [TheSmithPlays](https://www.youtube.com/@smithplayspokemon) and his incredible project team aiming to add Quality of Life improvements and updates which do not align with the Legacy project vision, but nonetheless are features which I believe enhances the game.
+Pokémon Emerald Legacy Enhanced is a fork of Pokémon Emerald Legacy by [TheSmithPlays](https://www.youtube.com/@smithplayspokemon) and his incredible project team aiming to add Quality of Life improvements and updates which do not align with the Legacy project vision, but nonetheless are features which I believe enhances the game.
 
 I have **no official affiliation** with TheSmithPlays or his incredible project team, I'm just a single developer fan who wanted to make my own flavour of Emerald Legacy with the greatest respect for the fantastic version of Emerald the team has already built. I look to regularly pull in any updates or fixes from the base Pokémon Emerald Legacy whenever the project team publishes.
 
@@ -30,7 +30,7 @@ The Base Emerald Legacy Enhanced version which primarily focuses on quality of l
 
 This Base patch includes all updates to Pokémon Emerald Legacy source code as of 27 Feb 2025.
 
-**Note:**: Save files from Emerald Legacy are compatibile, however it is one-way from Emerald Legacy to Enhanced and from older versions of Enhanced. Please backup original saves before moving to Enhanced.
+**Note:**: Save files from Emerald Legacy are compatible, however it is one-way from Emerald Legacy to Enhanced and from older versions of Enhanced. Please backup original saves before moving to Enhanced.
 
 ### High Level Features:
 * All Base Legacy changes as of v1.1.4.
@@ -39,7 +39,7 @@ This Base patch includes all updates to Pokémon Emerald Legacy source code as o
 * Optional National Dex Mode (More information in separate National Dex section below)
 * Optional in-game Shiny Charms to the player's item PC which **must** be withdrawn into the item bag to work. (More information in Shiny Charm section below)
 * Removed requirement for all field moves (including HMs) to have to be learned by a Pokémon in order to be used outside of battle.
-* Added gold sparkle to Feebas spots on Route 119 after recieving the Devon Scope.
+* Added gold sparkle to Feebas spots on Route 119 after receiving the Devon Scope.
 * Stat Editor to edit IVs and EVs added to Party Menu after National Dex is unlocked.
 * Nature Mints have been added in the game for purchase after beating Petalburg Gym.
 * Ability Capsules added into the game to swap between Pokémon's abilities.
@@ -197,7 +197,7 @@ In-game milestones for Shiny Charm acquisition (all added to Player Item PC, max
 * Added further post-game battle with Steven in Meteor Falls (higher level)
   * Battle available after first beating Steven in Meteor Falls, then beating the E4 again.
   * Battle resets after each E4 clear.
-* Final (undocumented) late post-game developer battle with Exclsior added with secret reward for completion. Reqirements for battle to become available:
+* Final (undocumented) late post-game developer battle with Exclsior added with secret reward for completion. Requirements for battle to become available:
   * Defeated Steven in Meteor Falls at least once.
   * Caught the Southern Island Lati.
   * Finished all in-game quests to get the Kanto starters.
@@ -215,11 +215,11 @@ In-game milestones for Shiny Charm acquisition (all added to Player Item PC, max
 * Added EXP. All as reward from Mr. Stone for delivering Steven's Letter.
   * **Notes:**
     * This is in addition to traditional Gen 3 EXP. Share held item remaining unchanged.
-    * This is **not** not Gen 6 EXP. Share.
+    * This is **not** Gen 6 EXP. Share.
     * EXP splits half the battle exp evenly between all eligible Pokémon in the party.
     * EXP would be the same as if all Pokémon in the party are each holding an EXP. Share.
     * EXP. All and EXP. Share do not work together, if EXP. All is on, held item EXP. Share does not do anything.
-    * If you migrate your save file and have already collected your EXP. Share, visit Mr. Stone again to recieve the EXP. All.
+    * If you migrate your save file and have already collected your EXP. Share, visit Mr. Stone again to receive the EXP. All.
 * Items can be moved between Pokémon in the party menu without using the bag.
 * Pokeballs can now be sorted by "Type" like other bag pockets.
 * Pokeballs (except Master Ball) can be used from bag to change a Pokémon's current ball.
@@ -251,7 +251,7 @@ In-game milestones for Shiny Charm acquisition (all added to Player Item PC, max
   * Mossdeep City: Twistedspoon & Nevermeltice
   * Sootopolis City: Mystic Water
   * Ever Grande City (Pokémon League): Blackglasses & Spell Tag
-* Added Heart Scales to Sootopolis Mart at 1,000 pokedollars after beating the the game.
+* Added Heart Scales to Sootopolis Mart at 1,000 pokedollars after beating the game.
 * Added a seller of Pokémon-specific held items to the Safari Zone Entrance.
   * Before beating the game Light Ball available for 9,800 pokedollars.
   * After beating the game or in National Dex Mode: Stick, Lucky Punch, Metal Powder, and Thick Club added for 9,800 pokedollars.
@@ -266,10 +266,10 @@ In-game milestones for Shiny Charm acquisition (all added to Player Item PC, max
   * PP Max added after getting all Silver Symbols for 3BP
 
 #### Pokémon Changes - Encounters and Gifts
-* Added gold sparkle to Feebas spots on Route 119 after recieving the Devon Scope.
+* Added gold sparkle to Feebas spots on Route 119 after receiving the Devon Scope.
   * Feebas encounter rate on tiles reduced to 10% to retain a bit of challenge in finding wild Feebas (Normal 50% on Feebas tiles before getting the Devon Scope).
   * Steven's dialogue updated when providing Devon Scope to hint towards revisiting Route 119.
-* Beldum, Metang and Metagross Catch Rates increased to 45 to match other psuedo-legendaries.
+* Beldum, Metang and Metagross Catch Rates increased to 45 to match other pseudo-legendaries.
 * Magma Hideout Encounters given more variety:
   * Slugma (only first room), Magcargo (all but first room), Numel, and Baltoy added reducing Geodude and Graveller encounter rates.
 * Postgame Encounters slightly reworked:
@@ -524,13 +524,13 @@ Combination of the two above patches for physical Dragon type and to add Dragon 
   * Sceptile:
     * Base Attack Increased by 10
     * Base Special Attack Decreased by 5
-    * Base Special Defence Decreased by 5
+    * Base Special Defense Decreased by 5
   * **Note:** If you are bringing a save file from Emerald Legacy and have Grovyle or Sceptile in your party, please deposit and withdraw from a PC to get their base stat calculations to be reset.
 
 ## Enhanced Starters - v1.1.4
 *Branch: enhanced-starters*
 
-An expansion on the Pokémon Emerald Legacy Enhanced Project which further buffs the the Starters (and my preferred way to play!). For the most balanced version, please use the base version! This version is just to feed into the childhood nostalgia feeling of having an overpowered starter throughout the game and to catch all the starters early in the game.
+An expansion on the Pokémon Emerald Legacy Enhanced Project which further buffs the Starters (and my preferred way to play!). For the most balanced version, please use the base version! This version is just to feed into the childhood nostalgia feeling of having an overpowered starter throughout the game and to catch all the starters early in the game.
 
 ### Implemented Changes
 * Grovyle and Sceptile with added Dragon Type
@@ -564,7 +564,7 @@ An expansion on the Pokémon Emerald Legacy Enhanced Project which further buffs
     * Location: Route 116
     * Encounter Rate: 5% at level 8
     * Why?: Earliest route without any water other than 101
-    * Removed encounter: Tailow at level 8 (Taillow at levels 6, 7 and 10 remain)
+    * Removed encounter: Taillow at level 8 (Taillow at levels 6, 7 and 10 remain)
   * Mudkip:
     * Location: Route 103
     * Encounter Rate: 4% at level 4, 1% at level 5
@@ -598,7 +598,7 @@ An expansion on the Pokémon Emerald Legacy Enhanced Project which further buffs
   * Squirtle: 
     * Location: Route 120
     * Encounter Rate: Surfing 5% at levels 5 - 13
-    * Why?: Post-Surf route with lots of ponds and puddes, also noted as "Water's Edge" Pokémon by FRLG Pokédex
+    * Why?: Post-Surf route with lots of ponds and puddles, also noted as "Water's Edge" Pokémon by FRLG Pokédex
     * Removed encounter: Marill at levels 5 - 10 (Encounter percentage only reduced)
 * Starter Level-up moves updated (changes compared to Emerald Legacy only):
   * Grovyle:
@@ -845,7 +845,7 @@ These videos also provide an overview of the hack and the ideology behind it:
 
 ### Creators:
 - TheSmithPlays - Project Manager and Developer
-- cRz Shadows - Lead Devoloper
+- cRz Shadows - Lead Developer
 - Weebra - Video Editor
 - Aerogod - Developer
 - Disq - Developer
@@ -905,7 +905,7 @@ These videos also provide an overview of the hack and the ideology behind it:
     - [Item Automatically Goes to PC if Bag is Full](https://github.com/pret/pokeemerald/wiki/Item-Automatically-Goes-to-PC-if-Bag-is-Full)
     - [Allow Jumping Over Ledges with Acro Bike](https://github.com/pret/pokeemerald/wiki/Allow-Jumping-Over-Ledges-with-Acro-Bike)
     - [Get Match Calls Only If Caller Wants a Rematch](https://github.com/pret/pokeemerald/wiki/Get-Match-Calls-Only-If-Caller-Wants-a-Rematch)
-    - [Make the Person in the Intro Match the the Save File](https://github.com/pret/pokeemerald/wiki/Make-the-Person-in-the-Intro-Match-the-the-Save-File)
+    - [Make the Person in the Intro Match the Save File](https://github.com/pret/pokeemerald/wiki/Make-the-Person-in-the-Intro-Match-the-the-Save-File)
     - [Fix AI's Switch In Battle](https://github.com/pret/pokeemerald/wiki/Fix-AI's-Switch-In-Battle)
     - [Add Move Description Submenu During Battle](https://github.com/pret/pokeemerald/wiki/Add-Description-Submenu)
 - mxeg
